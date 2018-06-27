@@ -8,6 +8,7 @@
             "email": "opensmarty@163.com"
         }
     ],
+    "minimum-stability":"dev",
     "require": {
         "composer-plugin-api": "^1.0"
     },
